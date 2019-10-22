@@ -1,0 +1,11 @@
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\obj\Debug\netcoreapp2.1\MagazineAppContext.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\obj\Debug\netcoreapp2.1\MagazineAppContext.AssemblyInfoInputs.cache
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\obj\Debug\netcoreapp2.1\MagazineAppContext.AssemblyInfo.cs
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\bin\Debug\netcoreapp2.1\MagazineAppContext.deps.json
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\bin\Debug\netcoreapp2.1\MagazineAppContext.dll
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\bin\Debug\netcoreapp2.1\MagazineAppContext.pdb
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\obj\Debug\netcoreapp2.1\MagazineAppContext.dll
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\obj\Debug\netcoreapp2.1\MagazineAppContext.pdb
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\bin\Debug\netcoreapp2.1\MagazineAppContext.runtimeconfig.json
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\bin\Debug\netcoreapp2.1\MagazineAppContext.runtimeconfig.dev.json
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\obj\Debug\netcoreapp2.1\MagazineAppContext.csprojAssemblyReference.cache

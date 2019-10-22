@@ -1,0 +1,8 @@
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\bin\Release\netcoreapp2.0\MagazineApp.deps.json
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\bin\Release\netcoreapp2.0\MagazineApp.dll
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\bin\Release\netcoreapp2.0\MagazineApp.pdb
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\obj\Release\netcoreapp2.0\MagazineApp.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\obj\Release\netcoreapp2.0\MagazineApp.AssemblyInfoInputs.cache
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\obj\Release\netcoreapp2.0\MagazineApp.AssemblyInfo.cs
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\obj\Release\netcoreapp2.0\MagazineApp.dll
+C:\Users\Thomas\source\repos\MagazineAppContext\MagazineAppContext\obj\Release\netcoreapp2.0\MagazineApp.pdb
